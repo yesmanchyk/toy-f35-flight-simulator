@@ -4,7 +4,7 @@ An interactive 3D WebGL flight simulator and 3D printable model of a stylized to
 
 ## 🎮 Live Demo
 Play the flight simulator online via GitHub Pages:
-https://<your-username>.github.io/<repo-name>/
+https://yesmanchyk.github.io/toy-f35-flight-simulator/
 
 ## 🕹️ Controls
 - **Pitch Up / Down**: S / W (or Down / Up Arrow keys)
