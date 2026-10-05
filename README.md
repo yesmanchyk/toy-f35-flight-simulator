@@ -2,6 +2,10 @@
 
 An interactive 3D WebGL flight simulator and stylized toy F-35 Lightning II jet with full **Meta Quest WebXR VR** support, vanilla WebGL rendering, procedural Web Audio sound synthesis, and real-time aerodynamics.
 
+## 🎮 Live Demo
+Play the flight simulator online via GitHub Pages:
+https://yesmanchyk.github.io/toy-f35-flight-simulator/
+
 ## 🥽 Meta Quest VR Features
 - **Immersive WebXR**: Seamless one-click VR entry in Meta Quest Browser (Quest 2, 3, 3S, and Pro).
 - **Dual VR Camera Modes**:
